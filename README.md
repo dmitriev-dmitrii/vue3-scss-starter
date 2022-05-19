@@ -1,4 +1,4 @@
-# wtm-front
+
 
 ## Project setup
 ```
